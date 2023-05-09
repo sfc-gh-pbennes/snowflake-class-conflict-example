@@ -1,0 +1,5 @@
+target/
+snowflake-jdbc-first.log
+snowflake-ingest-sdk-first.log
+japicmp.bcpkix.164.170.log
+japicmp.bcprov.164.170.log
